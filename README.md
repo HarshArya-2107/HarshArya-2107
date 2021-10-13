@@ -22,6 +22,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-333333?style=flat&logo=adobe-Sublime%20Text%203)
 - 🖥 &nbsp;
   ![canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=adobe-Canva)
 
