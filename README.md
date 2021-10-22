@@ -42,5 +42,3 @@
 <a href="https://www.linkedin.com/in/harsh-arya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/harsh-arya-3531041b8/-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:harsharya2107@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harsharya2107@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
