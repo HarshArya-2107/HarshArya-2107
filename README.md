@@ -27,6 +27,7 @@
   ![canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=adobe-Canva)
 
 <br/>
+https://camo.githubusercontent.com/c21df976c6ce05d30be6d201b851ae9744edcaadc2bf3dd8d369e461064ffa6f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f76617473616c636f64652f636f756e742e737667
 
 <a href="https://github.com/HarshArya-2107">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshArya-2107&theme=buefy&show_icons=true" />
